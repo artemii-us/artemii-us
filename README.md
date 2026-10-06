@@ -1,7 +1,9 @@
 # 👋 Hello, GitHub!
 
-Welcome to my awesome repository!  
+Hello, my name is Artemii Sychev, i'm sofware engineer and welcome to my repository!  
 Here I share my projects, ideas, and experiments in programming, data science, and server development.
+In my professional career, I’m currently a C++/Qt developer with a focus on mathematics.
+
 
 ---
 
